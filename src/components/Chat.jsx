@@ -6,7 +6,7 @@ function Chat() {
   return (
     <div className='chat'>
       <div className="chatinfo">
-        <span>Bilal Ahmed</span>
+        <span className='chatusername'>Bilal Ahmed</span>
       </div>
       <Messages/>
       <Input/>

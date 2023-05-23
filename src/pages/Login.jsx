@@ -4,7 +4,7 @@ function Login() {
   return (
     <div className='formContainer'>
       <div className="formWraper">
-       <div className="logo">Lema Chat</div>
+       <div className="logo">What'sapp Chats</div>
         <div className="title">Login</div>
          <form>
             <input type="email" placeholder='Email' />
